@@ -42,7 +42,7 @@
     <!-- mobile ffmpeg framework for ios using cocoa pods -->
     <podspec>
       <config>
-          <source url="https://github.com/CocoaPods/Specs.git"/>
+          <source url="https://cdn.cocoapods.org/"/>
       </config>
       <pods use-frameworks="true">
           <pod name="mobile-ffmpeg-full-gpl" spec="~> 4.4" />
